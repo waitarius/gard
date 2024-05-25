@@ -1,0 +1,117 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(#7CEBEB, #06497A);
+}
+nav a{
+    color: rgb(16, 64, 109);
+    margin: 30px;
+    border: 3px solid;
+    border-radius: 8px;
+    padding: 5px;
+    text-decoration: none;
+    display: flex;
+    background-color: #1f7fc4;
+}
+nav a:hover{
+    box-shadow: 5px 5px 3px 0px rgb(49, 88, 170);
+}
+.ggg{
+    position: absolute;
+    left: 275px;
+    top: 370px;
+    padding: 5px;
+    border: 5px solid #1f7fc4;
+    background-color: #4592c9;
+    width: 550px;
+}
+
+.info {
+   display: flex;
+   flex-wrap: wrap;
+   max-width: 800px;
+   margin: 0 auto;
+}
+.post {
+   background-color: #4592c9;
+   padding: 10px;
+   width: 270px;
+   margin: 15px;
+   position: relative;
+   top: 460px;
+   left: 185px;
+   border: 5px solid #1f7fc4;
+}
+.article-but {
+   text-decoration: none;
+   background-color: #133aac;
+   color: white;
+   font-size: 24px;
+   text-align: center;
+   padding: 10px;
+   display: block;
+}
+
+.sus{
+    border: 1px solid transparent;
+    border-right: 230px solid;
+    border-bottom: 1350px solid;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    color: #4da5e4;
+}
+nav{
+    position: absolute;
+    top: 10px;
+    left: 1px;
+}
+.fff {
+    position: relative;
+    left: 650px;
+    width: 300px;
+    bottom: 815px;
+}
+main{
+    background-color: ;
+    
+}
+.dif{
+    position: absolute;
+    top: 140px;
+    left: 250px;
+    border: 10px solid #4592c9;
+}
+.frf{
+    position: absolute;
+    
+}
+.fr{
+    position: absolute;
+    width: 213px;
+    left: 6px;
+    top: 00px;
+}
+.san{
+    position: absolute;
+    width: 100px;
+    left: 250px;
+    top: 1250px;
+}
+.sun{
+    position: absolute;
+    width: 80px;
+    left: 360px;
+    top: 1257px;
+}
+.sen{
+   position: absolute;
+    width: 80px;
+    left: 460px;
+    top: 1256px; 
+}
+.sn{
+   position: absolute;
+    width: 120px;
+    left: 540px;
+    top: 1237px;
+}
